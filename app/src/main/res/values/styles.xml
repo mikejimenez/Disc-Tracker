@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Custom_Course" parent="android:Theme.Holo.Light">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="Make_Course" parent="android:Theme.Holo.Light">
+        <item name="android:textSize">28sp</item>
+    </style>
+
+</resources>

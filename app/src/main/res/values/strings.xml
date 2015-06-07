@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Testing</string>
+    <string name="welcome">Welcome</string>
+    <string name="mark">Track Throw</string>
+    <string name="track">Tracking..</string>
+    <!-- TODO: Remove "Action_settings" -->
+    <string name="action_settings"></string>
+    <string name="holes">Number of Holes</string>
+    <string name="cname">Course Name</string>
+    <string name="save_course">SAVE</string>
+    <string name="action_plus">+</string>
+    <string name="lblPassword">Enter Text</string>
+    <string name="btn_submit">Submit</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="toggle_on">Starting..</string>
+    <string name="toggle_off">Record Distance</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="title_activity_make_course">Recently Played Courses</string>
+    <string name="title_activity_custom_course">Create Custom Course</string>
+    <string name="title_activity_splash_screen">Splash</string>
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>
